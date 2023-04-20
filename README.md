@@ -8,4 +8,6 @@ It is important to ensure people with disabilities can assess a website with ass
 
 I have implemented semantic elements and alt-text to images so the website can be more accessible. Also, CSS selectors and properties were updated to follow semantic structure, along with removing duplicate declaration blocks with identical properties.
 
-![Alt text](assets/website-screenshot.png?raw=true "Optional Title")
+![Screenshot of website](assets/website-screenshot.png?raw=true "Demo")
+
+https://kyungkwon01.github.io/horiseon/
